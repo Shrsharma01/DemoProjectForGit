@@ -1,1 +1,1 @@
-NewBranchFile1 changes
+NewBranchFile1 changes to view Difference.
